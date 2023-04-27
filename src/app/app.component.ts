@@ -7,7 +7,7 @@ import { StatusService } from './shared/status.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'daca';
+  title = 'DACA';
   status = 'DOWN';
 
   constructor(private statusServer: StatusService) {}
