@@ -33,6 +33,7 @@ body {
   
   /* Center align the text within the three columns below the carousel */
   .marketing .col-lg-4 {
+    margin-top: 4rem;
     margin-bottom: 1.5rem;
     text-align: center;
   }
@@ -43,6 +44,13 @@ body {
   }
   /* rtl:end:ignore */
   
+  .main-row {
+    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
   
   /* Featurettes
   ------------------------- */
